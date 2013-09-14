@@ -47,6 +47,7 @@ public class main
         System.out.println("Afstanden mellem punkt 1 og punkt 2 er: " + (Math.sqrt( (Math.pow((cx2-cx), 2)) + (Math.pow(cy2-cy, 2)))));
         
         System.out.println("Afstanden mellem punkt 1 og punkt 2 er: " + p1.distance(p2) );
+        
     }
 }
 
